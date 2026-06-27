@@ -1,0 +1,105 @@
+# King — Generative Engine Optimization Map
+
+> A premium online store specializing in high-quality poker cards, targeting serious poker players and enthusiasts who appreciate top-tier playing cards. The brand revolves around sophistication, elegance, and the thrill of the game, catering to a discerning audience that values quality craftsmanship in their card games.
+
+---
+
+## Pages
+
+### בית
+https://king-33f56ed1.zappy5.app
+גלו את עולם קלפי הפוקר היוקרתיים מבית King, המותאמים לשחקנים רציניים המחפשים אומנות, אלגנטיות וריגוש בכל קלף. היכנסו עכשיו לחוויית משחק בלתי מתפשרת.
+
+### אומנות
+https://king-33f56ed1.zappy5.app/craftsmanship
+הכירו מקרוב את תהליך היצירה המוקפד של קלפי הפוקר המקצועיים שלנו, המשלב מסורת, דיוק ותשוקה לפרטים. למה להתפשר כשאפשר לשחק באיכות שמורגשת בכל נגיעה?
+
+### אודות
+https://king-33f56ed1.zappy5.app/about
+King נולדה מאהבה עמוקה למשחק הפוקר ולשחקנים שמבינים שאיכות היא לא מותרות אלא צורך בסיסי. הצטרפו לקהילה שמעריכה מצוינות, סטייל וניצחון אמיתי סביב השולחן.
+
+### צור קשר
+https://king-33f56ed1.zappy5.app/contact
+יש שאלה על קלפי הפוקר המקצועיים שלנו או רוצים ייעוץ אישי? צוות המומחים של King כאן כדי לעזור לכם להרכיב את הסט שיהפוך כל ערב משחק לבלתי נשכח. צרו קשר עוד היום.
+
+### Products
+https://king-33f56ed1.zappy5.app/products
+המוצרים שלנו - King
+
+### Cart
+https://king-33f56ed1.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://king-33f56ed1.zappy5.app/checkout
+תשלום
+
+### Login
+https://king-33f56ed1.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://king-33f56ed1.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://king-33f56ed1.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://king-33f56ed1.zappy5.app/product/:slug
+פרטי המוצר - King
+
+### Category
+https://king-33f56ed1.zappy5.app/category/:slug
+מוצרים - King
+
+### תודה על פנייתך
+https://king-33f56ed1.zappy5.app/thank-you
+King - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://king-33f56ed1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://king-33f56ed1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://king-33f56ed1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About King
+A premium online store specializing in high-quality poker cards, targeting serious poker players and enthusiasts who appreciate top-tier playing cards. The brand revolves around sophistication, elegance, and the thrill of the game, catering to a discerning audience that values quality craftsmanship in their card games.
+
+## Target Audience
+- חובבי פוקר ושחקנים ברמה גבוהה
+- חובבי פוקר
+- שחקני פוקר מקצועיים
+- אספני קלפים יוקרתיים
+
+## Industry
+E-commerce / Gaming & Cards
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://king-33f56ed1.zappy5.app/sitemap.xml
+- Robots: https://king-33f56ed1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://king-33f56ed1.zappy5.app/llms-full.txt
+- Products (JSON): https://king-33f56ed1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://king-33f56ed1.zappy5.app/product-feed.xml

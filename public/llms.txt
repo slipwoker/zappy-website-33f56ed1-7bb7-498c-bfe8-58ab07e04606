@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://king-33f56ed1.zappy5.app
+https://example.com
 גלו את עולם קלפי הפוקר היוקרתיים מבית King, המותאמים לשחקנים רציניים המחפשים אומנות, אלגנטיות וריגוש בכל קלף. היכנסו עכשיו לחוויית משחק בלתי מתפשרת.
 
 ### אומנות
-https://king-33f56ed1.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 הכירו מקרוב את תהליך היצירה המוקפד של קלפי הפוקר המקצועיים שלנו, המשלב מסורת, דיוק ותשוקה לפרטים. למה להתפשר כשאפשר לשחק באיכות שמורגשת בכל נגיעה?
 
 ### אודות
-https://king-33f56ed1.zappy5.app/about
+https://example.com/about
 King נולדה מאהבה עמוקה למשחק הפוקר ולשחקנים שמבינים שאיכות היא לא מותרות אלא צורך בסיסי. הצטרפו לקהילה שמעריכה מצוינות, סטייל וניצחון אמיתי סביב השולחן.
 
 ### צור קשר
-https://king-33f56ed1.zappy5.app/contact
+https://example.com/contact
 יש שאלה על קלפי הפוקר המקצועיים שלנו או רוצים ייעוץ אישי? צוות המומחים של King כאן כדי לעזור לכם להרכיב את הסט שיהפוך כל ערב משחק לבלתי נשכח. צרו קשר עוד היום.
 
 ### Products
-https://king-33f56ed1.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - King
 
 ### Cart
-https://king-33f56ed1.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://king-33f56ed1.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://king-33f56ed1.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://king-33f56ed1.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://king-33f56ed1.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://king-33f56ed1.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - King
 
 ### Category
-https://king-33f56ed1.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - King
 
 ### תודה על פנייתך
-https://king-33f56ed1.zappy5.app/thank-you
+https://example.com/thank-you
 King - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://king-33f56ed1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://king-33f56ed1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://king-33f56ed1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce / Gaming & Cards
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://king-33f56ed1.zappy5.app/sitemap.xml
-- Robots: https://king-33f56ed1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://king-33f56ed1.zappy5.app/llms-full.txt
-- Products (JSON): https://king-33f56ed1.zappy5.app/products.json
-- Products (Google Merchant RSS): https://king-33f56ed1.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
